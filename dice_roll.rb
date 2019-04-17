@@ -4,4 +4,10 @@
 
 def roll
   # code goes here
+  # Generate an integer from 0 to 10
+
+	rand(1..6)
+	
 end
+
+roll
