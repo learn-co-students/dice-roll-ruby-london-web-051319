@@ -24,3 +24,6 @@ describe "#roll" do
   end
 
 end
+def roll(1..6)
+  rolls = []
+end
